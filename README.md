@@ -86,9 +86,10 @@ RAGシステム、自律エージェント、
 
 ## 🔭 Currently Working On
 
-> 🏀 **[SpoRev](https://github.com/ohtakaisei)** — バスケットボール選手レビューに特化したプラットフォーム  
-> ⚔️ **Hero's Journey** — RPGテイストのタスク管理アプリ  
-> 🧪 **Research** — AIと人間の創造性の境界線を探究中
+> 🏀 **[SpoRev](https://github.com/ohtakaisei/sports_review)** — バスケットボール選手レビューに特化したプラットフォーム  
+> ⚔️ **[AI先生](https://github.com/ohtakaisei/sports_review](https://github.com/ohtakaisei/AI-teacher)** — AIの先生が指導してくれるサイト  
+> 🧪 **[LifeFlow](https://github.com/ohtakaisei/Life-flow-ios)** — 生活管理iOSアプリ
+> その他
 
 <br/>
 
