@@ -22,7 +22,7 @@
 所在地:      🗼 Tokyo, Japan
 肩書き:      Creative Technologist / AI Engineer
 関心:        [ "Generative AI", "Real-time Graphics", "Interactive Art" ]
-モットー:    "技術と表現の交差点で、新しい体験を。"
+モットー:    "七転び百起き"
 今ハマってる: ☕ + 🎧 + ⌨️
 ```
 
@@ -87,7 +87,7 @@ RAGシステム、自律エージェント、
 ## 🔭 Currently Working On
 
 > 🏀 **[SpoRev](https://github.com/ohtakaisei/sports_review)** — バスケットボール選手レビューに特化したプラットフォーム  
-> ⚔️ **[AI先生](https://github.com/ohtakaisei/sports_review](https://github.com/ohtakaisei/AI-teacher)** — AIの先生が指導してくれるサイト  
+> ⚔️ **[AI先生](https://github.com/ohtakaisei/AI-teacher)** — AIの先生が指導してくれるサイト  
 > 🧪 **[LifeFlow](https://github.com/ohtakaisei/Life-flow-ios)** — 生活管理iOSアプリ
 > その他
 
