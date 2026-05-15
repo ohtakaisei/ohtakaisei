@@ -18,7 +18,7 @@
 ## 🌌 About Me
 
 ```yaml
-名前:        大田 海聖 (Kaisei Ohta)
+名前:        大田 海聖 (Kaisei Ota)
 所在地:      🗼 Tokyo, Japan
 肩書き:      Creative Technologist / AI Engineer
 関心:        [ "Generative AI", "Real-time Graphics", "Interactive Art" ]
@@ -127,10 +127,10 @@ mindmap
       Motion
     Product
       SpoRev
-      Hero's Journey
+      LifeFlow
     Curiosity
-      Coffee ☕
-      Music 🎧
+      Movie ☕
+      Drama 🎧
       Books 📚
 ```
 
@@ -140,10 +140,10 @@ mindmap
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ohtakaisei">
+<a href="[https://www.linkedin.com/in/ohtakaisei](https://www.linkedin.com/in/kaisei-ota-a443201b8/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:kaiseiota@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ohtakaisei">
@@ -156,7 +156,7 @@ mindmap
 
 <div align="center">
 
-> *「技術は道具、創造は意志。」*
+> *「AI最高。AI大好き。AI is my Frineds」*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 
